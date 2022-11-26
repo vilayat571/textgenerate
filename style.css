@@ -10,6 +10,7 @@
 body {
   background-color: #f1f5f8;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 h1 {

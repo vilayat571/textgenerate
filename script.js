@@ -15,6 +15,8 @@ btn.addEventListener('click',(e) => {
         return `<div>${item.text}</div>`
     });
 
+    window.scrollTo(0,document.body.scrollHeight);
+
 });
 
 
